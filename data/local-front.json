@@ -1,0 +1,21 @@
+{
+	"ru":
+	   {
+		"paste_link":"Добавьте ссылку",
+		"link_of_course":"Ссылка на сайт https://coursehunters.net/ ...",
+		"download_btn_text":"скачать",
+		"has_loaded":"Курс загружен",
+		"server_error":"Ошибка сервера",
+		"is_loading":"Идёт закачка..."
+	},
+	"en":
+	   {
+		"paste_link":"Add the link",
+		"link_of_course":"Link follow on https://coursehunters.net/ ...",
+		"download_btn_text":"download",
+		"has_loaded":"Course has loaded",
+		"server_error":"Server error",
+		"is_loading":"Is loading..."
+	}
+	
+}

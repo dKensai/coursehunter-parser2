@@ -1,0 +1,30 @@
+{   
+  "ru":{  
+	    "url_error":"невалидный URL",
+      "proxy_error": "Нет валидных прокси адресов. Перезагрузите страницу и попробуйте ещё раз",
+  	  "origin_course_name":"Оригинальное название курса",
+  	  "manufacturer":"Производитель курса",
+  	  "course_link":"Ссылка на закачку",
+  	  "info_file":"Файл информации сформирован успешно",
+  	  "examples_files_no":"Файлы примеров не найдены",
+  	  "examples_files_found":"Файлы примеров закачаны успешно",
+      "file_download_error":"Ошибка закачки файла",
+      "rus_name_error":"Новая папка",
+      "lessons_list_names_error":"Без имени",
+      "lessons_videos_error":"Файлы видео не найдены"              	  	  
+  },
+  "en":{  
+	   "url_error":"unvalid URL",
+     "proxy_error": "There are no valid proxy ip-addresses. Please, reload page and try again",
+     "origin_course_name":"Origin course name",
+  	 "manufacturer":"Course brand",
+  	 "course_link":"Course link",
+  	 "info_file":"INFO file have created",
+  	 "examples_files_no":"No examples files",
+  	 "examples_files_found":"Examples files have downloaded",
+     "file_download_error":"File download error",
+     "rus_name_error":"New Folder",
+     "lessons_list_names_error":"No name",
+      "lessons_videos_error":"Video files not found"                     		  
+  }
+}

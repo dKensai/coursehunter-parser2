@@ -1,0 +1,18 @@
+{
+    "name": "vendor/parsing",
+    "description": "load the courses",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Just Den",
+            "email": "some@email.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"App\\":"app",
+            "Core\\":"core"
+    	}
+    }
+}

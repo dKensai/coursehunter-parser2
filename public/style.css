@@ -1,0 +1,53 @@
+
+  body{
+    font-family: Jura;
+    min-height: 500px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+
+  form{
+    box-shadow: 0 4px 15px 0 rgba(200, 200, 200, 0.75);
+  }
+
+
+
+   button[type=submit]{
+     width: 100%;
+     border: none;
+     border-radius: 2px;
+     text-transform: uppercase;
+     outline: none;
+     cursor: pointer;
+     background-image: linear-gradient(to right, #fc6076, #ff9a44, #ef9d43, #e75516);
+     box-shadow: 0 4px 15px 0 rgba(252, 104, 110, 0.75);
+     color: white;
+     font-size: 18px!important;
+     padding: 10px 5px;
+     background-size: 300% 100%;
+      moz-transition: all .4s ease-in-out;
+      -o-transition: all .4s ease-in-out;
+      -webkit-transition: all .4s ease-in-out;
+      transition: all .4s ease-in-out;
+   }
+
+  button[type=submit]:hover {
+      background-position: 100% 0;
+      moz-transition: all .4s ease-in-out;
+      -o-transition: all .4s ease-in-out;
+      -webkit-transition: all .4s ease-in-out;
+      transition: all .4s ease-in-out;
+  }
+
+  .download_img{
+    height: 64px;
+  }
+
+  .download_img img{
+    display: none;
+  }
+
+  .jumbotron{
+    display: none;
+  }
