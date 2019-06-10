@@ -1,7 +1,6 @@
 
 // localization: ru, en
-// ru by default
-const LANG = 'en';
+var LANG = 'en';
 
 
 $.getJSON( "../data/local-front.json", function( data ) {

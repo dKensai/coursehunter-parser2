@@ -46,11 +46,11 @@ class Parser{
    */
 	function __construct($url){
 
-    $this->url = $url;
+		$this->url = $url;
 
-    $this->localization();
+		$this->localization();
 
-    $this->getProxyData();
+		$this->getProxyData();
 
 	}
 

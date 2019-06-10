@@ -15,7 +15,7 @@ class Config
      * false by default
      * @var boolean
      */
-    const SHOW_ERRORS = true;
+    const SHOW_ERRORS = false;
 
 
     /**
@@ -27,7 +27,6 @@ class Config
 
     /**
      * Language of messages - ru, en
-     * ru by default
      * @var string
      */
     const LANG = 'en';
